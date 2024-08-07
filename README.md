@@ -1,5 +1,5 @@
 # Voyage_Beyond_3D
-Voyage Beyond is a 3D platformer game where you assume the character of Nova. He is an astronaut who is extremely passionate about space travel, but has found himself in a tight situation. Nova is stranded millions of miles away from earth and is trying to find his way back to his family. Along the journey back, he can’t help himself and he explores worlds in the process. Make sure be careful with your inputs as you overcome obstacles, and win the game by reaching the flag!
+Voyage Beyond is a 3D platformer game where you assume the character of Nova. He is an astronaut who is extremely passionate about space travel, but has found himself in a tight situation. Nova is stranded millions of miles away from earth and is trying to find his way back to his family. Along the journey back, he can’t help himself and he explores worlds in the process. Make sure to be careful with your inputs as you overcome obstacles, and win the game by reaching the flag!
 
 Unity Assets:
 - Cloth animation based Flag by telecaster - Realease date: Jul1, 2016
